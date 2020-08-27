@@ -1,5 +1,5 @@
 <p align="center">
- <img width="400px" src="./img/gif/kakashiRead.gif" align="center" alt="Kakashi" />
+ <img width="400px" src="img/gif/kakashiRead.gif" align="center" alt="Kakashi" />
  <h1 align="center">Hi, I'm Brian!</h1>
  <h3 align="center">Aspiring Software Engineer and Tech Enthusiast</h3>
  <p align="center"</p>
