@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Kakashi" />
+ <h2 align="center">Hi, I'm Brian!</h2>
+ <p align="center"</p>
+</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JhongHawan&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
