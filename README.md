@@ -1,8 +1,6 @@
 <p align="center">
  <img width="400px" src="https://github.com/JhongHawan/JhongHawan/blob/master/img/gif/kakashiRead.gif" align="center" alt="KakashiRead" />
- 
- ![vino map gif](https://github.com/JhongHawan/JhongHawan/blob/master/img/gif/kakashiRead.gif)
- 
+  
  <h1 align="center">Hi, I'm Brian!</h1>
  <h3 align="center">Aspiring Software Engineer and Tech Enthusiast</h3>
  <p align="center"</p>
