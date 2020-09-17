@@ -9,7 +9,7 @@
 
 <h2>😎 About Me</h2>
 
-- Working as a Software Engineer Intern at Apptio. 
+- Working as a Software Engineer at Apptio. 
 - Recent University of Washington Graduate with a B.S. Informatics. 
 - I’m currently working on redesigning my portfolio and creating a scalable platform for my future web applications. 
 - I’m currently learning more about Docker, Kubernetes, Cloud Services, and other general DevOp topics. Also learning about personal finance and Japanese on the side. こんにちは！
