@@ -2,18 +2,16 @@
  <img width="400px" src="https://github.com/JhongHawan/JhongHawan/blob/master/img/gif/kakashiRead.gif" align="center" alt="KakashiRead" />
   
  <h1 align="center">Hi, I'm Brian!</h1>
- <h3 align="center">Aspiring Software Engineer and Tech Enthusiast</h3>
+ <h3 align="center">Software Engineer and Tech Enthusiast</h3>
  <p align="center"</p>
 </p>
 <br>
 
 <h2>😎 About Me</h2>
 
-- Working as a Software Development Engineer 1 at Apptio. 
-- Recent University of Washington Graduate with a B.S. Informatics. 
-- I’m currently working on redesigning my portfolio and creating a scalable platform for my future web applications. 
-- I’m currently learning more about Docker, Kubernetes, Cloud Services, and other general DevOp topics. Also learning about personal finance and Japanese on the side. こんにちは！
-- Things I like to do include weight lifting, yoga, swimming, cooking, fishing, coding, binge watching shows/movies, reading, and video games.    
+- Working as a Software Development Engineer at Microsoft. 
+- University of Washington Graduate with a B.S. Informatics. 
+- Things I like to do include weight lifting, swimming, cooking, coding, binge watching shows/movies, reading, and video games.    
 
 <br>
 <p align="center">
